@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cra-github-actions/static/css/main.a617e044.chunk.css",
-    "main.js": "/cra-github-actions/static/js/main.6c664f42.chunk.js",
-    "main.js.map": "/cra-github-actions/static/js/main.6c664f42.chunk.js.map",
+    "main.js": "/cra-github-actions/static/js/main.cbfdf6b5.chunk.js",
+    "main.js.map": "/cra-github-actions/static/js/main.cbfdf6b5.chunk.js.map",
     "runtime-main.js": "/cra-github-actions/static/js/runtime-main.33ec5fa6.js",
     "runtime-main.js.map": "/cra-github-actions/static/js/runtime-main.33ec5fa6.js.map",
     "static/js/2.e78be2ab.chunk.js": "/cra-github-actions/static/js/2.e78be2ab.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.33ec5fa6.js",
     "static/js/2.e78be2ab.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.6c664f42.chunk.js"
+    "static/js/main.cbfdf6b5.chunk.js"
   ]
 }
